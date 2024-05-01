@@ -4,7 +4,7 @@ const {
   checkPasswordRequirements,
   hashPassword,
   compareWithHash,
-} = require('./javaj.js'); // замініть 'yourFile' на шлях до вашого файлу з функціями
+} = require('./javaj.js'); 
 
 describe('Password Functions', function () {
   describe('checkPasswordRequirements', function () {
